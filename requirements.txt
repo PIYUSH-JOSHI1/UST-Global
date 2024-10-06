@@ -1,6 +1,8 @@
-flask
-opencv-python
-numpy
-ultralytics
-cvzone
-sort-python
+Flask==2.2.2
+numpy==1.21.6  # A stable version compatible with many packages
+opencv-python-headless==4.5.5.64  # Headless version without GUI dependencies
+requests==2.28.1  # For making HTTP requests
+pandas==1.4.3  # Data manipulation and analysis
+scikit-learn==1.1.2  # Machine learning library
+matplotlib==3.5.3  # Plotting library
+# Add any additional necessary packages here
