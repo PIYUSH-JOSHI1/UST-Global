@@ -9,6 +9,13 @@ A modern desktop application that combines real-time face detection and object d
 
 https://youtu.be/1oXsB2620So
 
+
+## Presentation Link 
+
+https://drive.google.com/file/d/1iUSwg4LtnSNtgDdakV_gUZfnrbru-nvu/view?usp=sharing
+
+
+
 ## ✨ Key Features
 
 - Real-time face detection using Haar Cascades
